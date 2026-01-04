@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Website</title>
+</head>
+<body>
+
+    <h1>Personal Website</h1>
+
+    <h2>Biodata</h2>
+
+    <p><b>Name:</b> Rani</p>
+    <p><b>USN:</b> GIT25EC126-T</p>
+    <p><b>Course:</b> BE in Electronics and Communication Engineering</p>
+    <p><b>College:</b> KLS Gogte Institute of Technology, Belagavi</p>
+    <p><b>Email:</b> ranisidraddi28@gmail.com</p>
+    <p><b>Phone:</b> 9353904503</p>
+
+    <h2>Educational Details</h2>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+        <tr>
+            <th>Qualification</th>
+            <th>Institution</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>PUC</td>
+            <td>Tungal PU College</td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>BE (ECE)</td>
+            <td>KLS Gogte Institute of Technology, Belagavi</td>
+            <td>2025</td>
+        </tr>
+    </table>
+
+    <h2>Social Activities</h2>
+
+    <ul>
+        <li>Participated in college technical fests</li>
+        <li>Volunteered in NSS activities</li>
+        <li>Participated in sports events</li>
+    </ul>
+
+    <h2>Social Media Links</h2>
+
+    <p><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></p>
+    <p><a href="https://www.instagram.com" target="_blank">Instagram</a></p>
+    <p><a href="https://github.com" target="_blank">GitHub</a></p>
+
+</body>
+</html>
